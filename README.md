@@ -218,4 +218,5 @@ Fall asleep faster with customizable ASMR sounds. Mobile app that plays no-loopi
 # Contact
 
 [![Check my LinkedIn](https://media.giphy.com/media/Is1O1TWV0LEJi/giphy.gif)](https://www.linkedin.com/in/egilsandfeld/)<br>
+Thanks for reading 💪
 Feel free to reach out to me on <a href="https://www.linkedin.com/in/egilsandfeld/" target="_blank">LinkedIn</a>
