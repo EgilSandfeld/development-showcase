@@ -51,7 +51,7 @@
 - Java for native Android apps ⭐
 - Objective C for iOS ⭐
 - Firebase functions and database rules ⭐
-- Wwise: 5 years
+- Wwise: 5+ years
 - VS Studio + Code
 
 &nbsp;
@@ -144,7 +144,7 @@ Responsibilities: Concepts, design, development frontend & backend, testing
 
 Stargazer is a music VR neck-training tool to alleviate mild neck strains and pain. Paint and draw star constellations on the VR night sky in rhythm to the music. The system makes sure to help to alleviate the pain in certain neck stretches. Get feedback on your exercise while playing and afterwards with statistics. The project reached the prototype stages culminating in a showcase tour to Tallinn as well as requests from physiotherapists to use the tool.
 
-<a href="https://github.com/EgilSandfeld/development-showcase/tree/master/stargazer" target="_blank">The code examples</a> show parts of the music integration with Wwise
+<a href="https://github.com/EgilSandfeld/development-showcase/tree/master/stargazer" target="_blank">The code examples</a> show parts of the music integration with Wwise as well as VR input handling
 
 
 &nbsp;
