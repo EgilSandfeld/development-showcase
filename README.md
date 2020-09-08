@@ -127,7 +127,7 @@ I Have extended Unity editor several times with custom inspectors, scripts, tool
 
 
 
-
+---
 
 
 
@@ -160,13 +160,6 @@ Stargazer is a music VR neck-training tool to alleviate mild neck strains and pa
 
 &nbsp;
 &nbsp;
-
-
-
-
-
-
----
 
 
 
